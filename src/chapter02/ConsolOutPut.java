@@ -13,7 +13,7 @@ public class ConsolOutPut {
 		System.out.print("안녕 \n");   // \n : enter
 		System.out.print("하세요. ");
 		
-		
+		system.out.println("추가된내용");
 	}
 
 }
